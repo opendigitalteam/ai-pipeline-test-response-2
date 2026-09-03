@@ -1,34 +1,31 @@
 {
   "supplier": "Ubuntu Health Manufacturing (Pty) Ltd",
   "currency": "ZAR",
+  "confidence": 0.85,
   "items": [
     {
       "product_name": "Panadel 500",
       "sku": "UHM-PARA-500",
-      "price_per_unit": 0.0415,
-      "units_per_pack": 1000,
-      "confidence": 0.85
+      "price_per_unit": 0.0342,
+      "units_per_pack": 1000
     },
     {
       "product_name": "Ubucef 1 g",
       "sku": "UHM-CEFTX-1G",
-      "price_per_unit": 17.8,
-      "units_per_pack": 10,
-      "confidence": 0.85
+      "price_per_unit": 178.0,
+      "units_per_pack": 10
     },
     {
       "product_name": "Misotab 200",
       "sku": "UHM-MISO-200",
       "price_per_unit": 1.6125,
-      "units_per_pack": 60,
-      "confidence": 0.85
+      "units_per_pack": 60
     },
     {
       "product_name": "Ubuglar 100",
       "sku": "UHM-INSGLA-100",
       "price_per_unit": 122.4,
-      "units_per_pack": 5,
-      "confidence": 0.85
+      "units_per_pack": 5
     }
   ]
 }

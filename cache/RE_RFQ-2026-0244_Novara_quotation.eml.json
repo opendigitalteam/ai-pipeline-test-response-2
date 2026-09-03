@@ -1,27 +1,25 @@
 {
   "supplier": "Novara Farmaceutici S.p.A.",
   "currency": "EUR",
+  "confidence": 0.85,
   "items": [
     {
       "product_name": "Azimax 250",
       "sku": "",
       "price_per_unit": 0.134,
-      "units_per_pack": 6,
-      "confidence": 0.8
+      "units_per_pack": 6
     },
     {
       "product_name": "Zincora 20",
       "sku": "",
       "price_per_unit": 0.0155,
-      "units_per_pack": 100,
-      "confidence": 0.85
+      "units_per_pack": 100
     },
     {
       "product_name": "Dexafar 4 mg/mL",
       "sku": "",
       "price_per_unit": 0.41,
-      "units_per_pack": 25,
-      "confidence": 0.9
+      "units_per_pack": 25
     }
   ]
 }

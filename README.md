@@ -48,8 +48,7 @@ One row per line item:
 | price_per_unit | price for one unit |
 | currency | currency code |
 | units_per_pack | units in a pack |
-| confidence | 0-1 from the model |
-| needs_review | yes if confidence is under 0.7 |
+| confidence | 0-1 for the document the row came from |
 
 The output from my run is committed in `out/results.csv`.
 

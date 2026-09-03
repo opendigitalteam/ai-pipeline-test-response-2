@@ -1,34 +1,31 @@
 {
   "supplier": "Zenith Pharma",
   "currency": "USD",
+  "confidence": 0.9,
   "items": [
     {
       "product_name": "Zenamox 500/125",
       "sku": "",
       "price_per_unit": 0.0642,
-      "units_per_pack": 14,
-      "confidence": 0.95
+      "units_per_pack": 14
     },
     {
       "product_name": "Artezen-20/120",
       "sku": "",
       "price_per_unit": 0.0398,
-      "units_per_pack": 24,
-      "confidence": 0.95
+      "units_per_pack": 24
     },
     {
       "product_name": "Metzen XR 1000",
       "sku": "",
       "price_per_unit": 0.0215,
-      "units_per_pack": 60,
-      "confidence": 0.95
+      "units_per_pack": 60
     },
     {
       "product_name": "Oxyzen 10 IU/mL",
       "sku": "",
       "price_per_unit": 0.128,
-      "units_per_pack": 10,
-      "confidence": 0.95
+      "units_per_pack": 10
     }
   ]
 }

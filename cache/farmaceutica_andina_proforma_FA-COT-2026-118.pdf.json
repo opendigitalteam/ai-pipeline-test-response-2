@@ -1,48 +1,43 @@
 {
   "supplier": "Farmaceutica Andina S.A.S.",
   "currency": "USD",
+  "confidence": 0.9,
   "items": [
     {
       "product_name": "Dolostop 500",
       "sku": "01",
       "price_per_unit": 0.0091,
-      "units_per_pack": 20,
-      "confidence": 0.9
+      "units_per_pack": 20
     },
     {
       "product_name": "Amlodin 5",
       "sku": "02",
       "price_per_unit": 0.0128,
-      "units_per_pack": 30,
-      "confidence": 0.9
+      "units_per_pack": 30
     },
     {
       "product_name": "Losandina 50",
       "sku": "03",
       "price_per_unit": 0.0205,
-      "units_per_pack": 30,
-      "confidence": 0.9
+      "units_per_pack": 30
     },
     {
       "product_name": "Amoxidina 250/5",
       "sku": "04",
       "price_per_unit": 0.345,
-      "units_per_pack": 1,
-      "confidence": 0.9
+      "units_per_pack": 1
     },
     {
       "product_name": "Enalten 10",
       "sku": "05",
       "price_per_unit": 0.0074,
-      "units_per_pack": 500,
-      "confidence": 0.9
+      "units_per_pack": 500
     },
     {
       "product_name": "Salbudina 2/5",
       "sku": "06",
       "price_per_unit": 0.412,
-      "units_per_pack": 1,
-      "confidence": 0.9
+      "units_per_pack": 1
     }
   ]
 }

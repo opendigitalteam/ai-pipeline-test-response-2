@@ -1,41 +1,37 @@
 {
   "supplier": "Mekong Pharma JSC",
   "currency": "USD",
+  "confidence": 0.9,
   "items": [
     {
       "product_name": "Mekamox 500/125",
       "sku": "",
       "price_per_unit": 0.0715,
-      "units_per_pack": 20,
-      "confidence": 0.9
+      "units_per_pack": 20
     },
     {
       "product_name": "Vermaben 400",
       "sku": "",
       "price_per_unit": 0.0223,
-      "units_per_pack": 1,
-      "confidence": 0.9
+      "units_per_pack": 1
     },
     {
       "product_name": "Salvent HFA",
       "sku": "",
       "price_per_unit": 1.42,
-      "units_per_pack": 1,
-      "confidence": 0.9
+      "units_per_pack": 1
     },
     {
       "product_name": "Mekatri 300/300/50",
       "sku": "",
       "price_per_unit": 0.0428,
-      "units_per_pack": 30,
-      "confidence": 0.9
+      "units_per_pack": 30
     },
     {
       "product_name": "Ferrofol 60/0.4",
       "sku": "",
       "price_per_unit": 0.00485,
-      "units_per_pack": 1000,
-      "confidence": 0.85
+      "units_per_pack": 1000
     }
   ]
 }

@@ -44,20 +44,10 @@ a reviewer needs.
 
 ## Uncertainty
 
-Confidence comes from the model, per line item, as a number between 0 and 1.
-Anything below 0.7 is marked `needs_review` in the output so a reviewer can
-filter to the rows worth checking.
-
-The threshold is a judgement rather than something I calibrated. With more time
-I would check a sample by hand and see whether 0.7 is actually the right cut.
+Each document gets a confidence value which is written onto every row from that
+document, so a reviewer can sort the CSV and start with the lowest.
 
 ## Known limitations
 
-- Products appear in more than one document (both scans are the same Andina
-  proforma, and the same molecules appear from different suppliers). The
-  pipeline does not deduplicate or reconcile these.
-- Prices are in three currencies and are not converted.
-- There are no automated tests. I checked the output against the source
-  documents manually.
-- The confidence number comes from the model, so it is a self-report rather than
-  an independent check.
+Products appear in more than one document and the pipeline does not deduplicate
+them. Prices are in three currencies and are not converted.

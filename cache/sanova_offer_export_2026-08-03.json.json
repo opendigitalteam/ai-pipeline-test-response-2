@@ -1,27 +1,25 @@
 {
   "supplier": "Sanova Laboratories Pvt. Ltd.",
   "currency": "EUR",
+  "confidence": 0.9,
   "items": [
     {
       "product_name": "Sanotri-TLD",
       "sku": "SNV-TLD-90",
       "price_per_unit": 0.035,
-      "units_per_pack": 90,
-      "confidence": 0.9
+      "units_per_pack": 90
     },
     {
       "product_name": "Sanofour Kit",
       "sku": "SNV-RIF-HRZE",
       "price_per_unit": 0.0125,
-      "units_per_pack": 672,
-      "confidence": 0.85
+      "units_per_pack": 672
     },
     {
       "product_name": "Sanodip 5",
       "sku": "SNV-AMLO-5",
       "price_per_unit": 0.0104,
-      "units_per_pack": 30,
-      "confidence": 0.9
+      "units_per_pack": 30
     }
   ]
 }

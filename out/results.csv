@@ -1,38 +1,38 @@
-source_document,supplier,product_name,model_or_sku,price_per_unit,currency,units_per_pack,confidence,needs_review
-RE_RFQ-2026-0244_Novara_quotation.eml,Novara Farmaceutici S.p.A.,Azimax 250,,0.134,EUR,6,0.8,no
-RE_RFQ-2026-0244_Novara_quotation.eml,Novara Farmaceutici S.p.A.,Zincora 20,,0.0155,EUR,100,0.85,no
-RE_RFQ-2026-0244_Novara_quotation.eml,Novara Farmaceutici S.p.A.,Dexafar 4 mg/mL,,0.41,EUR,25,0.9,no
-farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Dolostop 500,01,0.0091,USD,20,0.9,no
-farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Amlodin 5,02,0.0128,USD,30,0.9,no
-farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Losandina 50,03,0.0205,USD,30,0.9,no
-farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Amoxidina 250/5,04,0.345,USD,1,0.9,no
-farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Enalten 10,05,0.0074,USD,500,0.9,no
-farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Salbudina 2/5,06,0.412,USD,1,0.9,no
-mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Mekamox 500/125,,0.0715,USD,20,0.9,no
-mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Vermaben 400,,0.0223,USD,1,0.9,no
-mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Salvent HFA,,1.42,USD,1,0.9,no
-mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Mekatri 300/300/50,,0.0428,USD,30,0.9,no
-mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Ferrofol 60/0.4,,0.00485,USD,1000,0.85,no
-sanova_offer_export_2026-08-03.json,Sanova Laboratories Pvt. Ltd.,Sanotri-TLD,SNV-TLD-90,0.035,EUR,90,0.9,no
-sanova_offer_export_2026-08-03.json,Sanova Laboratories Pvt. Ltd.,Sanofour Kit,SNV-RIF-HRZE,0.0125,EUR,672,0.85,no
-sanova_offer_export_2026-08-03.json,Sanova Laboratories Pvt. Ltd.,Sanodip 5,SNV-AMLO-5,0.0104,EUR,30,0.9,no
-scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Dolostop 500,01,0.0091,USD,20,0.65,yes
-scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Amlodin 5,02,0.0128,USD,30,0.65,yes
-scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Losandina 50,03,0.0205,USD,30,0.6,yes
-scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Amoxidina 250/5,04,0.345,USD,1,0.7,no
-scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Enalten 10,05,0.0074,USD,500,0.65,yes
-scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Salbudina 2/5,06,0.412,USD,1,0.65,yes
-scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Dolostop 500,01,0.0091,USD,20,0.5,yes
-scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Amlodin 5,02,0.0158,USD,30,0.55,yes
-scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Losandina 50,03,0.0205,USD,30,0.5,yes
-scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Amoxidina 250/5,04,0.345,USD,1,0.75,no
-scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Enalten 10,05,0.0074,USD,500,0.75,no
-scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Salbudina 2/5,06,0.412,USD,1,0.7,no
-ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Panadel 500,UHM-PARA-500,0.0415,ZAR,1000,0.85,no
-ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Ubucef 1 g,UHM-CEFTX-1G,17.8,ZAR,10,0.85,no
-ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Misotab 200,UHM-MISO-200,1.6125,ZAR,60,0.85,no
-ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Ubuglar 100,UHM-INSGLA-100,122.4,ZAR,5,0.85,no
-zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Zenamox 500/125,,0.0642,USD,14,0.95,no
-zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Artezen-20/120,,0.0398,USD,24,0.95,no
-zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Metzen XR 1000,,0.0215,USD,60,0.95,no
-zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Oxyzen 10 IU/mL,,0.128,USD,10,0.95,no
+source_document,supplier,product_name,model_or_sku,price_per_unit,currency,units_per_pack,confidence
+RE_RFQ-2026-0244_Novara_quotation.eml,Novara Farmaceutici S.p.A.,Azimax 250,,0.134,EUR,6,0.85
+RE_RFQ-2026-0244_Novara_quotation.eml,Novara Farmaceutici S.p.A.,Zincora 20,,0.0155,EUR,100,0.85
+RE_RFQ-2026-0244_Novara_quotation.eml,Novara Farmaceutici S.p.A.,Dexafar 4 mg/mL,,0.41,EUR,25,0.85
+farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Dolostop 500,01,0.0091,USD,20,0.9
+farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Amlodin 5,02,0.0128,USD,30,0.9
+farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Losandina 50,03,0.0205,USD,30,0.9
+farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Amoxidina 250/5,04,0.345,USD,1,0.9
+farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Enalten 10,05,0.0074,USD,500,0.9
+farmaceutica_andina_proforma_FA-COT-2026-118.pdf,Farmaceutica Andina S.A.S.,Salbudina 2/5,06,0.412,USD,1,0.9
+mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Mekamox 500/125,,0.0715,USD,20,0.9
+mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Vermaben 400,,0.0223,USD,1,0.9
+mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Salvent HFA,,1.42,USD,1,0.9
+mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Mekatri 300/300/50,,0.0428,USD,30,0.9
+mekong_pharma_quotation_MKP-2026-0812.pdf,Mekong Pharma JSC,Ferrofol 60/0.4,,0.00485,USD,1000,0.9
+sanova_offer_export_2026-08-03.json,Sanova Laboratories Pvt. Ltd.,Sanotri-TLD,SNV-TLD-90,0.035,EUR,90,0.9
+sanova_offer_export_2026-08-03.json,Sanova Laboratories Pvt. Ltd.,Sanofour Kit,SNV-RIF-HRZE,0.0125,EUR,672,0.9
+sanova_offer_export_2026-08-03.json,Sanova Laboratories Pvt. Ltd.,Sanodip 5,SNV-AMLO-5,0.0104,EUR,30,0.9
+scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Dolostop 500,01,0.0091,USD,20,0.85
+scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Amlodin 5,02,0.0128,USD,30,0.85
+scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Losandina 50,03,0.0205,USD,30,0.85
+scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Amoxidina 250/5,04,0.345,USD,1,0.85
+scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Enalten 10,05,0.0074,USD,500,0.85
+scan_02_lowres_fax_andina_p1.png,Farmaceutica Andina S.A.S.,Salbudina 2/5,06,0.412,USD,1,0.85
+scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Dolostop 500,01,0.0094,USD,20,0.9
+scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Amlodin 5,02,0.0158,USD,30,0.9
+scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Losandina 50,03,0.0205,USD,30,0.9
+scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Amoxidina 250/5,04,0.345,USD,1,0.9
+scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Enalten 10,05,0.0074,USD,500,0.9
+scan_03_glare_partial_andina_p1.jpg,Farmaceutica Andina S.A.S.,Salbudina 2/5,06,0.412,USD,1,0.9
+ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Panadel 500,UHM-PARA-500,0.0342,ZAR,1000,0.85
+ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Ubucef 1 g,UHM-CEFTX-1G,178.0,ZAR,10,0.85
+ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Misotab 200,UHM-MISO-200,1.6125,ZAR,60,0.85
+ubuntu_health_price_list_Q3-2026.json,Ubuntu Health Manufacturing (Pty) Ltd,Ubuglar 100,UHM-INSGLA-100,122.4,ZAR,5,0.85
+zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Zenamox 500/125,,0.0642,USD,14,0.9
+zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Artezen-20/120,,0.0398,USD,24,0.9
+zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Metzen XR 1000,,0.0215,USD,60,0.9
+zenith_pharma_quotation_ZPL-Q-2026-4471.json,Zenith Pharma,Oxyzen 10 IU/mL,,0.128,USD,10,0.9

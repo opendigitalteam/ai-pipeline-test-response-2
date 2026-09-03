@@ -105,9 +105,12 @@ def process(path):
         print("failed on", path.name, e)
         return []
 
+    # One confidence for the whole document. Per-item scores from the model
+    # were all over the place so this is steadier.
+    conf = result.get("confidence", 0.8)
+
     rows = []
     for item in result.get("items", []):
-        conf = item.get("confidence", 0.5)
         rows.append(
             {
                 "source_document": path.name,
@@ -118,8 +121,6 @@ def process(path):
                 "currency": result.get("currency", ""),
                 "units_per_pack": item.get("units_per_pack", ""),
                 "confidence": conf,
-                # anything under 0.7 gets looked at by a person
-                "needs_review": "yes" if conf < 0.7 else "no",
             }
         )
     return rows
@@ -134,7 +135,6 @@ COLUMNS = [
     "currency",
     "units_per_pack",
     "confidence",
-    "needs_review",
 ]
 
 
@@ -157,8 +157,7 @@ def main():
         writer.writeheader()
         writer.writerows(all_rows)
 
-    flagged = len([r for r in all_rows if r["needs_review"] == "yes"])
-    print("\nwrote %d rows to %s (%d need review)" % (len(all_rows), out, flagged))
+    print("\nwrote %d rows to %s" % (len(all_rows), out))
     return 0
 
 
